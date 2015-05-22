@@ -2453,5 +2453,5 @@ module_init(ov5640_mod_init);
 module_exit(ov5640_mod_exit);
 
 MODULE_DESCRIPTION("Ominivision OV5640 5M camera sensor driver");
-MODULE_AUTHOR("Robin Singh <robin_singh@gmail.com>");
+MODULE_AUTHOR("Robin Singh <robin.gujjar@gmail.com>");
 MODULE_LICENSE("GPL");
